@@ -1,0 +1,135 @@
+c:\users\ibm_admin\documents\visual studio 2015\Projects\ViaGoGo - CD\ViaGoGo - CD\bin\ApplicationInsights.config
+c:\users\ibm_admin\documents\visual studio 2015\Projects\ViaGoGo - CD\ViaGoGo - CD\bin\roslyn\csc.exe
+c:\users\ibm_admin\documents\visual studio 2015\Projects\ViaGoGo - CD\ViaGoGo - CD\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\ibm_admin\documents\visual studio 2015\Projects\ViaGoGo - CD\ViaGoGo - CD\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\ibm_admin\documents\visual studio 2015\Projects\ViaGoGo - CD\ViaGoGo - CD\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\ibm_admin\documents\visual studio 2015\Projects\ViaGoGo - CD\ViaGoGo - CD\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\ibm_admin\documents\visual studio 2015\Projects\ViaGoGo - CD\ViaGoGo - CD\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\ibm_admin\documents\visual studio 2015\Projects\ViaGoGo - CD\ViaGoGo - CD\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\ibm_admin\documents\visual studio 2015\Projects\ViaGoGo - CD\ViaGoGo - CD\bin\roslyn\System.Collections.Immutable.dll
+c:\users\ibm_admin\documents\visual studio 2015\Projects\ViaGoGo - CD\ViaGoGo - CD\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\ibm_admin\documents\visual studio 2015\Projects\ViaGoGo - CD\ViaGoGo - CD\bin\roslyn\vbc.exe
+c:\users\ibm_admin\documents\visual studio 2015\Projects\ViaGoGo - CD\ViaGoGo - CD\bin\roslyn\VBCSCompiler.exe
+c:\users\ibm_admin\documents\visual studio 2015\Projects\ViaGoGo - CD\ViaGoGo - CD\bin\roslyn\VBCSCompiler.exe.config
+c:\users\ibm_admin\documents\visual studio 2015\Projects\ViaGoGo - CD\ViaGoGo - CD\bin\ViaGoGo - CD.dll.config
+c:\users\ibm_admin\documents\visual studio 2015\Projects\ViaGoGo - CD\ViaGoGo - CD\bin\ViaGoGo - CD.dll
+c:\users\ibm_admin\documents\visual studio 2015\Projects\ViaGoGo - CD\ViaGoGo - CD\bin\ViaGoGo - CD.pdb
+c:\users\ibm_admin\documents\visual studio 2015\Projects\ViaGoGo - CD\ViaGoGo - CD\bin\Antlr3.Runtime.dll
+c:\users\ibm_admin\documents\visual studio 2015\Projects\ViaGoGo - CD\ViaGoGo - CD\bin\GogoKit.dll
+c:\users\ibm_admin\documents\visual studio 2015\Projects\ViaGoGo - CD\ViaGoGo - CD\bin\HalKit.dll
+c:\users\ibm_admin\documents\visual studio 2015\Projects\ViaGoGo - CD\ViaGoGo - CD\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\ibm_admin\documents\visual studio 2015\Projects\ViaGoGo - CD\ViaGoGo - CD\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\ibm_admin\documents\visual studio 2015\Projects\ViaGoGo - CD\ViaGoGo - CD\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\ibm_admin\documents\visual studio 2015\Projects\ViaGoGo - CD\ViaGoGo - CD\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\ibm_admin\documents\visual studio 2015\Projects\ViaGoGo - CD\ViaGoGo - CD\bin\Microsoft.AI.Web.dll
+c:\users\ibm_admin\documents\visual studio 2015\Projects\ViaGoGo - CD\ViaGoGo - CD\bin\Microsoft.AI.WindowsServer.dll
+c:\users\ibm_admin\documents\visual studio 2015\Projects\ViaGoGo - CD\ViaGoGo - CD\bin\Microsoft.ApplicationInsights.dll
+c:\users\ibm_admin\documents\visual studio 2015\Projects\ViaGoGo - CD\ViaGoGo - CD\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\ibm_admin\documents\visual studio 2015\Projects\ViaGoGo - CD\ViaGoGo - CD\bin\Microsoft.Web.Infrastructure.dll
+c:\users\ibm_admin\documents\visual studio 2015\Projects\ViaGoGo - CD\ViaGoGo - CD\bin\Newtonsoft.Json.dll
+c:\users\ibm_admin\documents\visual studio 2015\Projects\ViaGoGo - CD\ViaGoGo - CD\bin\System.dll
+c:\users\ibm_admin\documents\visual studio 2015\Projects\ViaGoGo - CD\ViaGoGo - CD\bin\System.Net.Http.Extensions.dll
+c:\users\ibm_admin\documents\visual studio 2015\Projects\ViaGoGo - CD\ViaGoGo - CD\bin\System.Net.Http.Primitives.dll
+c:\users\ibm_admin\documents\visual studio 2015\Projects\ViaGoGo - CD\ViaGoGo - CD\bin\System.Web.Helpers.dll
+c:\users\ibm_admin\documents\visual studio 2015\Projects\ViaGoGo - CD\ViaGoGo - CD\bin\System.Web.Mvc.dll
+c:\users\ibm_admin\documents\visual studio 2015\Projects\ViaGoGo - CD\ViaGoGo - CD\bin\System.Web.Optimization.dll
+c:\users\ibm_admin\documents\visual studio 2015\Projects\ViaGoGo - CD\ViaGoGo - CD\bin\System.Web.Razor.dll
+c:\users\ibm_admin\documents\visual studio 2015\Projects\ViaGoGo - CD\ViaGoGo - CD\bin\System.Web.Webpages.Deployment.dll
+c:\users\ibm_admin\documents\visual studio 2015\Projects\ViaGoGo - CD\ViaGoGo - CD\bin\System.Web.Webpages.dll
+c:\users\ibm_admin\documents\visual studio 2015\Projects\ViaGoGo - CD\ViaGoGo - CD\bin\System.Web.Webpages.Razor.dll
+c:\users\ibm_admin\documents\visual studio 2015\Projects\ViaGoGo - CD\ViaGoGo - CD\bin\System.Xml.dll
+c:\users\ibm_admin\documents\visual studio 2015\Projects\ViaGoGo - CD\ViaGoGo - CD\bin\System.Xml.Linq.dll
+c:\users\ibm_admin\documents\visual studio 2015\Projects\ViaGoGo - CD\ViaGoGo - CD\bin\Tavis.UriTemplates.dll
+c:\users\ibm_admin\documents\visual studio 2015\Projects\ViaGoGo - CD\ViaGoGo - CD\bin\WebGrease.dll
+c:\users\ibm_admin\documents\visual studio 2015\Projects\ViaGoGo - CD\ViaGoGo - CD\bin\Antlr3.Runtime.pdb
+c:\users\ibm_admin\documents\visual studio 2015\Projects\ViaGoGo - CD\ViaGoGo - CD\bin\GogoKit.xml
+c:\users\ibm_admin\documents\visual studio 2015\Projects\ViaGoGo - CD\ViaGoGo - CD\bin\HalKit.xml
+c:\users\ibm_admin\documents\visual studio 2015\Projects\ViaGoGo - CD\ViaGoGo - CD\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\ibm_admin\documents\visual studio 2015\Projects\ViaGoGo - CD\ViaGoGo - CD\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\ibm_admin\documents\visual studio 2015\Projects\ViaGoGo - CD\ViaGoGo - CD\bin\Microsoft.AI.Web.xml
+c:\users\ibm_admin\documents\visual studio 2015\Projects\ViaGoGo - CD\ViaGoGo - CD\bin\Microsoft.AI.WindowsServer.xml
+c:\users\ibm_admin\documents\visual studio 2015\Projects\ViaGoGo - CD\ViaGoGo - CD\bin\Microsoft.ApplicationInsights.xml
+c:\users\ibm_admin\documents\visual studio 2015\Projects\ViaGoGo - CD\ViaGoGo - CD\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\ibm_admin\documents\visual studio 2015\Projects\ViaGoGo - CD\ViaGoGo - CD\bin\Newtonsoft.Json.xml
+c:\users\ibm_admin\documents\visual studio 2015\Projects\ViaGoGo - CD\ViaGoGo - CD\bin\System.Net.Http.Extensions.xml
+c:\users\ibm_admin\documents\visual studio 2015\Projects\ViaGoGo - CD\ViaGoGo - CD\bin\System.Net.Http.Primitives.xml
+c:\users\ibm_admin\documents\visual studio 2015\Projects\ViaGoGo - CD\ViaGoGo - CD\bin\System.Web.Mvc.xml
+c:\users\ibm_admin\documents\visual studio 2015\Projects\ViaGoGo - CD\ViaGoGo - CD\bin\System.Web.Optimization.xml
+c:\users\ibm_admin\documents\visual studio 2015\Projects\ViaGoGo - CD\ViaGoGo - CD\bin\Tavis.UriTemplates.pdb
+c:\users\ibm_admin\documents\visual studio 2015\Projects\ViaGoGo - CD\ViaGoGo - CD\bin\System.Web.Razor.xml
+c:\users\ibm_admin\documents\visual studio 2015\Projects\ViaGoGo - CD\ViaGoGo - CD\bin\System.Web.Webpages.xml
+c:\users\ibm_admin\documents\visual studio 2015\Projects\ViaGoGo - CD\ViaGoGo - CD\bin\System.Web.Webpages.Deployment.xml
+c:\users\ibm_admin\documents\visual studio 2015\Projects\ViaGoGo - CD\ViaGoGo - CD\bin\System.Web.Webpages.Razor.xml
+c:\users\ibm_admin\documents\visual studio 2015\Projects\ViaGoGo - CD\ViaGoGo - CD\bin\System.Web.Helpers.xml
+c:\users\ibm_admin\documents\visual studio 2015\Projects\ViaGoGo - CD\ViaGoGo - CD\obj\Debug\ViaGoGo.CD.csproj.App.config
+c:\users\ibm_admin\documents\visual studio 2015\Projects\ViaGoGo - CD\ViaGoGo - CD\obj\Debug\ViaGoGo.CD.csprojResolveAssemblyReference.cache
+c:\users\ibm_admin\documents\visual studio 2015\Projects\ViaGoGo - CD\ViaGoGo - CD\obj\Debug\ViaGoGo - CD.dll
+c:\users\ibm_admin\documents\visual studio 2015\Projects\ViaGoGo - CD\ViaGoGo - CD\obj\Debug\ViaGoGo - CD.pdb
+C:\Users\IBM_ADMIN\Documents\Visual Studio 2015\Projects\ViaGoGo.CD\ViaGoGo.CD\bin\ApplicationInsights.config
+C:\Users\IBM_ADMIN\Documents\Visual Studio 2015\Projects\ViaGoGo.CD\ViaGoGo.CD\bin\roslyn\csc.exe
+C:\Users\IBM_ADMIN\Documents\Visual Studio 2015\Projects\ViaGoGo.CD\ViaGoGo.CD\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\IBM_ADMIN\Documents\Visual Studio 2015\Projects\ViaGoGo.CD\ViaGoGo.CD\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\IBM_ADMIN\Documents\Visual Studio 2015\Projects\ViaGoGo.CD\ViaGoGo.CD\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\IBM_ADMIN\Documents\Visual Studio 2015\Projects\ViaGoGo.CD\ViaGoGo.CD\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\IBM_ADMIN\Documents\Visual Studio 2015\Projects\ViaGoGo.CD\ViaGoGo.CD\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\IBM_ADMIN\Documents\Visual Studio 2015\Projects\ViaGoGo.CD\ViaGoGo.CD\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\IBM_ADMIN\Documents\Visual Studio 2015\Projects\ViaGoGo.CD\ViaGoGo.CD\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\IBM_ADMIN\Documents\Visual Studio 2015\Projects\ViaGoGo.CD\ViaGoGo.CD\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\IBM_ADMIN\Documents\Visual Studio 2015\Projects\ViaGoGo.CD\ViaGoGo.CD\bin\roslyn\vbc.exe
+C:\Users\IBM_ADMIN\Documents\Visual Studio 2015\Projects\ViaGoGo.CD\ViaGoGo.CD\bin\roslyn\VBCSCompiler.exe
+C:\Users\IBM_ADMIN\Documents\Visual Studio 2015\Projects\ViaGoGo.CD\ViaGoGo.CD\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\IBM_ADMIN\Documents\Visual Studio 2015\Projects\ViaGoGo.CD\ViaGoGo.CD\bin\ViaGoGo - CD.dll.config
+C:\Users\IBM_ADMIN\Documents\Visual Studio 2015\Projects\ViaGoGo.CD\ViaGoGo.CD\bin\ViaGoGo - CD.dll
+C:\Users\IBM_ADMIN\Documents\Visual Studio 2015\Projects\ViaGoGo.CD\ViaGoGo.CD\bin\ViaGoGo - CD.pdb
+C:\Users\IBM_ADMIN\Documents\Visual Studio 2015\Projects\ViaGoGo.CD\ViaGoGo.CD\bin\Antlr3.Runtime.dll
+C:\Users\IBM_ADMIN\Documents\Visual Studio 2015\Projects\ViaGoGo.CD\ViaGoGo.CD\bin\GogoKit.dll
+C:\Users\IBM_ADMIN\Documents\Visual Studio 2015\Projects\ViaGoGo.CD\ViaGoGo.CD\bin\HalKit.dll
+C:\Users\IBM_ADMIN\Documents\Visual Studio 2015\Projects\ViaGoGo.CD\ViaGoGo.CD\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\IBM_ADMIN\Documents\Visual Studio 2015\Projects\ViaGoGo.CD\ViaGoGo.CD\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\IBM_ADMIN\Documents\Visual Studio 2015\Projects\ViaGoGo.CD\ViaGoGo.CD\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\IBM_ADMIN\Documents\Visual Studio 2015\Projects\ViaGoGo.CD\ViaGoGo.CD\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\IBM_ADMIN\Documents\Visual Studio 2015\Projects\ViaGoGo.CD\ViaGoGo.CD\bin\Microsoft.AI.Web.dll
+C:\Users\IBM_ADMIN\Documents\Visual Studio 2015\Projects\ViaGoGo.CD\ViaGoGo.CD\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\IBM_ADMIN\Documents\Visual Studio 2015\Projects\ViaGoGo.CD\ViaGoGo.CD\bin\Microsoft.ApplicationInsights.dll
+C:\Users\IBM_ADMIN\Documents\Visual Studio 2015\Projects\ViaGoGo.CD\ViaGoGo.CD\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\IBM_ADMIN\Documents\Visual Studio 2015\Projects\ViaGoGo.CD\ViaGoGo.CD\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\IBM_ADMIN\Documents\Visual Studio 2015\Projects\ViaGoGo.CD\ViaGoGo.CD\bin\Newtonsoft.Json.dll
+C:\Users\IBM_ADMIN\Documents\Visual Studio 2015\Projects\ViaGoGo.CD\ViaGoGo.CD\bin\System.dll
+C:\Users\IBM_ADMIN\Documents\Visual Studio 2015\Projects\ViaGoGo.CD\ViaGoGo.CD\bin\System.Net.Http.Extensions.dll
+C:\Users\IBM_ADMIN\Documents\Visual Studio 2015\Projects\ViaGoGo.CD\ViaGoGo.CD\bin\System.Net.Http.Primitives.dll
+C:\Users\IBM_ADMIN\Documents\Visual Studio 2015\Projects\ViaGoGo.CD\ViaGoGo.CD\bin\System.Web.Helpers.dll
+C:\Users\IBM_ADMIN\Documents\Visual Studio 2015\Projects\ViaGoGo.CD\ViaGoGo.CD\bin\System.Web.Mvc.dll
+C:\Users\IBM_ADMIN\Documents\Visual Studio 2015\Projects\ViaGoGo.CD\ViaGoGo.CD\bin\System.Web.Optimization.dll
+C:\Users\IBM_ADMIN\Documents\Visual Studio 2015\Projects\ViaGoGo.CD\ViaGoGo.CD\bin\System.Web.Razor.dll
+C:\Users\IBM_ADMIN\Documents\Visual Studio 2015\Projects\ViaGoGo.CD\ViaGoGo.CD\bin\System.Web.Webpages.Deployment.dll
+C:\Users\IBM_ADMIN\Documents\Visual Studio 2015\Projects\ViaGoGo.CD\ViaGoGo.CD\bin\System.Web.Webpages.dll
+C:\Users\IBM_ADMIN\Documents\Visual Studio 2015\Projects\ViaGoGo.CD\ViaGoGo.CD\bin\System.Web.Webpages.Razor.dll
+C:\Users\IBM_ADMIN\Documents\Visual Studio 2015\Projects\ViaGoGo.CD\ViaGoGo.CD\bin\System.Xml.dll
+C:\Users\IBM_ADMIN\Documents\Visual Studio 2015\Projects\ViaGoGo.CD\ViaGoGo.CD\bin\System.Xml.Linq.dll
+C:\Users\IBM_ADMIN\Documents\Visual Studio 2015\Projects\ViaGoGo.CD\ViaGoGo.CD\bin\Tavis.UriTemplates.dll
+C:\Users\IBM_ADMIN\Documents\Visual Studio 2015\Projects\ViaGoGo.CD\ViaGoGo.CD\bin\WebGrease.dll
+C:\Users\IBM_ADMIN\Documents\Visual Studio 2015\Projects\ViaGoGo.CD\ViaGoGo.CD\bin\Antlr3.Runtime.pdb
+C:\Users\IBM_ADMIN\Documents\Visual Studio 2015\Projects\ViaGoGo.CD\ViaGoGo.CD\bin\GogoKit.xml
+C:\Users\IBM_ADMIN\Documents\Visual Studio 2015\Projects\ViaGoGo.CD\ViaGoGo.CD\bin\HalKit.xml
+C:\Users\IBM_ADMIN\Documents\Visual Studio 2015\Projects\ViaGoGo.CD\ViaGoGo.CD\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\IBM_ADMIN\Documents\Visual Studio 2015\Projects\ViaGoGo.CD\ViaGoGo.CD\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\IBM_ADMIN\Documents\Visual Studio 2015\Projects\ViaGoGo.CD\ViaGoGo.CD\bin\Microsoft.AI.Web.xml
+C:\Users\IBM_ADMIN\Documents\Visual Studio 2015\Projects\ViaGoGo.CD\ViaGoGo.CD\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\IBM_ADMIN\Documents\Visual Studio 2015\Projects\ViaGoGo.CD\ViaGoGo.CD\bin\Microsoft.ApplicationInsights.xml
+C:\Users\IBM_ADMIN\Documents\Visual Studio 2015\Projects\ViaGoGo.CD\ViaGoGo.CD\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\IBM_ADMIN\Documents\Visual Studio 2015\Projects\ViaGoGo.CD\ViaGoGo.CD\bin\Newtonsoft.Json.xml
+C:\Users\IBM_ADMIN\Documents\Visual Studio 2015\Projects\ViaGoGo.CD\ViaGoGo.CD\bin\System.Net.Http.Extensions.xml
+C:\Users\IBM_ADMIN\Documents\Visual Studio 2015\Projects\ViaGoGo.CD\ViaGoGo.CD\bin\System.Net.Http.Primitives.xml
+C:\Users\IBM_ADMIN\Documents\Visual Studio 2015\Projects\ViaGoGo.CD\ViaGoGo.CD\bin\System.Web.Mvc.xml
+C:\Users\IBM_ADMIN\Documents\Visual Studio 2015\Projects\ViaGoGo.CD\ViaGoGo.CD\bin\System.Web.Optimization.xml
+C:\Users\IBM_ADMIN\Documents\Visual Studio 2015\Projects\ViaGoGo.CD\ViaGoGo.CD\bin\Tavis.UriTemplates.pdb
+C:\Users\IBM_ADMIN\Documents\Visual Studio 2015\Projects\ViaGoGo.CD\ViaGoGo.CD\bin\System.Web.Razor.xml
+C:\Users\IBM_ADMIN\Documents\Visual Studio 2015\Projects\ViaGoGo.CD\ViaGoGo.CD\bin\System.Web.Webpages.xml
+C:\Users\IBM_ADMIN\Documents\Visual Studio 2015\Projects\ViaGoGo.CD\ViaGoGo.CD\bin\System.Web.Webpages.Deployment.xml
+C:\Users\IBM_ADMIN\Documents\Visual Studio 2015\Projects\ViaGoGo.CD\ViaGoGo.CD\bin\System.Web.Webpages.Razor.xml
+C:\Users\IBM_ADMIN\Documents\Visual Studio 2015\Projects\ViaGoGo.CD\ViaGoGo.CD\bin\System.Web.Helpers.xml
+C:\Users\IBM_ADMIN\Documents\Visual Studio 2015\Projects\ViaGoGo.CD\ViaGoGo.CD\obj\Debug\ViaGoGo.CD.csproj.App.config
+C:\Users\IBM_ADMIN\Documents\Visual Studio 2015\Projects\ViaGoGo.CD\ViaGoGo.CD\obj\Debug\ViaGoGo - CD.dll
+C:\Users\IBM_ADMIN\Documents\Visual Studio 2015\Projects\ViaGoGo.CD\ViaGoGo.CD\obj\Debug\ViaGoGo - CD.pdb
+C:\Users\IBM_ADMIN\Documents\Visual Studio 2015\Projects\ViaGoGo.CD\ViaGoGo.CD\obj\Debug\ViaGoGo.CD.csprojResolveAssemblyReference.cache
+C:\Users\IBM_ADMIN\Documents\Visual Studio 2015\Projects\ViaGoGo.CD\ViaGoGo.CD\bin\Web.Optimization.dll

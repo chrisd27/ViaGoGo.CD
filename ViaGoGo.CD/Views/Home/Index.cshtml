@@ -1,0 +1,62 @@
+﻿
+@{
+    ViewBag.Title = "Home Page";
+}
+    <h1>
+        <img src="~/Content/images/viagogo.jpg" />
+    </h1>
+
+
+<div id="search" class="row">
+
+    <form id="searchForm" ng-submit="search()">
+            <div>
+                <input class="text-box single-line" id="searchText" name="searchText" ng-model="searchText" type="text" value="" ng-minlength="1">
+            </div>
+            <div id="searchBtn">
+                <button class="btn btn-1 btn-1e" type="submit"><span>Search for </span><span>an artist</span></button>
+            </div>
+    </form>
+</div>
+<div class="err">{{errorMessage}}</div>
+
+<div id="eventResults" ng-show="showEvents" class="table">
+    <p id="priceIconMsg">Cheapest ticket price in country indicated with a star</p>
+    <div id="headers">
+        <p>Event</p>
+        <p>Date</p>
+        <p>Price</p>
+        <p>Country</p>
+    </div>
+    <div id="contents" ng-repeat="evnt in events" ng-class-even="'even'">
+        <p class="eventName" ng-click="getTickets(evnt.eventId)">{{evnt.eventName}}</p>
+        <p>{{evnt.startDate | appDate | date: 'dd/MM/yyyy'}}</p>
+        <p>{{evnt.shownPrice}}</p>
+        <p>{{evnt.country.Name}}</p>
+        <img ng-if="evnt.lowestPrice==true" class="cheapestTicketImage" src="~/Content/images/smooth-star1.jpg" alt="Cheapest ticket" />
+    </div>
+</div>
+
+<div id="ListingResults" ng-show="showTickets"  class="table">
+    <div id="listingControls">
+        <p>Filter quantity <input ng-model="listingFilterText.NumberOfTickets"></p>
+    </div>
+    <div id="headers">
+        <p>Ticket Type</p>
+        <p>Est. Total Price</p>
+        <p>Qty</p>
+    </div>
+    <div id="contents" ng-repeat="listing in listings | filter:listingFilterText"  ng-class-even="'even'">
+        <a href="{{listing.LocalWebPageLink.HRef}}">{{listing.TicketType.Name}}</a>
+        <p>{{listing.EstimatedTotalCharge.Display}}</p>
+        <p>{{listing.NumberOfTickets}}</p>
+    </div>
+    <div id="pagPrev" ng-click="pagination(prevLink)" ng-show="prevListing">
+        <p>Previous Tickets</p>
+    </div>
+    <div id="pagNext" ng-click="pagination(nextLink)" ng-show="nextListing">
+        <p>Next Tickets</p>
+    </div>
+</div>
+
+<div ng-show="loading" id="loadingGif"></div>
